@@ -28,3 +28,8 @@ jiwoo.js supports various modern javascript frameworks. You can check the list [
 ## Contribution
 
 All PRs are welcome!
+
+## License
+
+[JIWOO LICENSE](https://github.com/todoaskit/jiwoo.js/blob/master/LICENSE)
+

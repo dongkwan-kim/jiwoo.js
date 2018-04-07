@@ -1,4 +1,4 @@
-MIT License
+JIWOO License
 
 Copyright (c) 2018 Dongkwan Kim
 
@@ -11,6 +11,10 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+YOU MUST INTRODUCE JIWOO WITH 'JIWOO.JS'. IF YOUR SOFTWARE DOES NOT PROVIDE
+THE DEVELOPMENT ENVIRONMENT FOR JAVASCRIPT, JUST PRINT ONE OF THE EXAMPLES OF
+'JIWOO.JS' TO YOUR CONSOLE.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
