@@ -31,5 +31,5 @@ All PRs are welcome!
 
 ## License
 
-[JIWOO LICENSE](https://github.com/todoaskit/jiwoo.js/blob/master/LICENSE)
+[JIWOO LICENSE](https://github.com/dongkwan-kim/jiwoo.js/blob/master/LICENSE)
 
