@@ -25,6 +25,13 @@ So, let's make Jiwoo Familiar with Modern JS Framework Again!
 
 jiwoo.js supports various modern javascript frameworks. You can check the list [here](https://github.com/sorrycc/awesome-javascript)
 
+## jiwoo.js celebrates the birthday
+
+Celebrate Jiwoo's birthday with jiwoo.js! 
+```
+Happy birthday Jiwoo!, who has some experiences with using modern javascript framework such as angular.js.
+```
+
 ## Contribution
 
 All PRs are welcome!

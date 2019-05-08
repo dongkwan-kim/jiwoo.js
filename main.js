@@ -37,4 +37,22 @@ function jiwooIntroduce() {
     const framework = framework_description.split(' - ')[0];
     console.log(`I’m Jiwoo. I have some experiences with using modern javascript framework such as ${framework}.`);
     console.log(`// ${framework_description}`);
+    return framework;
 };
+
+function isBirthday() {
+    const birthday = new Date(2019, 5 - 1, 8);
+    const today = new Date()
+    return birthday.getDate() == today.getDate() && birthday.getMonth() == today.getMonth();
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+    if (isBirthday()){
+        var celebrated = localStorage.getItem('celebrated') || '';
+        if (celebrated != 'yes') {
+            const framework = jiwooIntroduce();
+            console.log(`Happy birthday Jiwoo!, who has some experiences with using modern javascript framework such as ${framework}.`)
+            localStorage.setItem('celebrated', 'yes');
+        }
+    }
+ });
